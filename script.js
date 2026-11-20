@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "Loading recent contributers...",
     "...",
     "1. Mike & Marge Alder contributed to Addelines college plan on 12/30/2025",
-    "2. Mike & Marge Alder contributed to Otises college plan on 09/30/2026",
+    "2. Mike & Marge Alder contributed to Otis's college plan on 09/30/2026",
     "...",
     "We are truly grateful for your generosity <3",
     "..."
