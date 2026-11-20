@@ -45,11 +45,12 @@ document.addEventListener('DOMContentLoaded', () => {
   // --- 2. Terminal Supporters Typewriter ---
   const supporters = [
     "Loading recent contributers...",
+    "...",
     "1. Mike & Marge Alder contributed to Addelines college plan on 12/30/2025",
     "2. Mike & Marge Alder contributed to Otises college plan on 09/30/2026",
-    "3. ( Your name here )",
-    "Your contributions make a lasting impact on Addeline and Otises future!",
-    "We are truly grateful for your generosity <3"
+    "...",
+    "We are truly grateful for your generosity <3",
+    "..."
   ];
 
   const terminalCard = document.getElementById("terminalCard");
